@@ -5,7 +5,11 @@ print ("=======================================")
 nama = "Gusti rama"
 hobi = "Bermain Sepak bola"
 alamat = "Br. Dinas Pesagi"
+
+kota = "Tabanan"
+=======
 Kota = "Tabanan"
+
 Propinsi = "bali"
 
 print("Nama Lengkap  :",nama)
